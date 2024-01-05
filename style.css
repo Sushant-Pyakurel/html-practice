@@ -1,0 +1,10 @@
+body {
+  color: black;
+  background-color: rgb(233, 224, 238);
+  background-image: url("ff.png");
+  background-repeat: repeat-x;
+}
+h1 {
+  color: blue;
+  background-color: black;
+}
